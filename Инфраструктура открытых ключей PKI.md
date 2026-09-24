@@ -1,4 +1,4 @@
-<img width="1477" height="968" alt="image" src="https://github.com/user-attachments/assets/460e9f24-5b16-4136-8194-1c81f183954e" />
+<img width="1477" height="968" alt="image" src="https://github.com/user-attachments/assets/602c01a3-b096-43ce-a513-da5ec0fefb9a" />
 
 #### Типовые требования к ЦС (УЦ)
 ###### Для всех пользователей системы
