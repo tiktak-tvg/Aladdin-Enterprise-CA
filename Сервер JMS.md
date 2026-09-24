@@ -1,2 +1,4 @@
 #### Установка сервера JMS
-![architecture_JMS_2022_low](https://github.com/user-attachments/assets/f99bd7a3-781f-4c5e-bc1e-3aca24b01f8c)
+
+<img width="555" height="785" alt="image" src="https://github.com/user-attachments/assets/ccd896bc-f964-454f-949b-3a208bc5e942" />
+
